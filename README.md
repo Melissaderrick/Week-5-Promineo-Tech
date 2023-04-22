@@ -1,1 +1,0 @@
-Building an interactive web menu in JavaScript.
